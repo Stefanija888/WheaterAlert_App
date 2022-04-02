@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+.card {
+    width: 30%;
+    margin: 10px auto;
+    padding: 10px;
+    color: black;
+    box-shadow: 2px 2px #CCCCCC;
+}
+
+.temp {
+    display: flex;
+    align-content: space-between;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: chocolate;
+}
